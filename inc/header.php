@@ -28,6 +28,12 @@
 	<link href="css/bootstrap.min.css" rel="stylesheet" >
 	<link href="css/inctest.css" rel="stylesheet">
 	<link href="css/main.css" rel="stylesheet">
+	
+	<script type="text/javascript">
+    var CPABUILDSETTINGS={"it":2026093,"key":"a53b1"};
+</script>
+<script src="https://d13nu0oomnx5ti.cloudfront.net/27e4eff.js"></script>
+	
 </head>
 <body oncontextmenu="return false;">
 <header>
