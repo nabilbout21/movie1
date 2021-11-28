@@ -11,7 +11,7 @@ $wname = '🔥watch all latest movies for FREE';
 
 $descrip = '🔥watch all latest movies for FREE';  
 
-$cpa_link = 'https://contentlockerdialek.com';  
+$cpa_link = '';  
 
 $ImdbApi = 'a913ee104db6b795d20852a9ed989036';
 
