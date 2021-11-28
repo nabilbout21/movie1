@@ -60,7 +60,7 @@ $json = json_decode($str, true);
               }
             ?>
           </div>
-          <a href="<?php echo $cpa_link ?>" target="_blank" class="btn btn-outline-light mt-3 waves-effect btn-lg z-depth-0 btn-block">
+          <a onclick="CPABuildLock()" target="_blank" class="btn btn-outline-light mt-3 waves-effect btn-lg z-depth-0 btn-block">
             <i class="fas fa-play"></i> Watch movie online <b class="langflag"> - EN </b>
           </a>      
           <button type="button" class="btn btn-dark video-btn btn-lg mt-3 btn-block" data-toggle="modal"  data-target="#myModal">
@@ -69,14 +69,14 @@ $json = json_decode($str, true);
         <h2 class="downlinks">Download Links <b class="langflag"> - EN </b> Language</h2>
         <div class="row">
           <div class="col-md-6">
-            <a href="<?php echo $cpa_link ?>" target="_blank" class="btn btndown btn-lg btn-block mb-3 mt-3"><i class="fas fa-download"></i> SD Quality <b class="langflag"> - EN </b></a>
-            <a href="<?php echo $cpa_link ?>" target="_blank" class="btn btndown btn-lg btn-block mb-3"><i class="fas fa-download"></i> HQ Quality <b class="langflag"> - EN </b></a>
-            <a href="<?php echo $cpa_link ?>" target="_blank" class="btn btndown btn-lg btn-block"><i class="fas fa-download"></i> HD Quality <b class="langflag"> - EN </b></a>
+            <a onclick="CPABuildLock()" target="_blank" class="btn btndown btn-lg btn-block mb-3 mt-3"><i class="fas fa-download"></i> SD Quality <b class="langflag"> - EN </b></a>
+            <a onclick="CPABuildLock()" target="_blank" class="btn btndown btn-lg btn-block mb-3"><i class="fas fa-download"></i> HQ Quality <b class="langflag"> - EN </b></a>
+            <a onclick="CPABuildLock()" target="_blank" class="btn btndown btn-lg btn-block"><i class="fas fa-download"></i> HD Quality <b class="langflag"> - EN </b></a>
           </div>
           <div class="col-md-6">
-            <a href="<?php echo $cpa_link ?>" target="_blank" class="btn btndown btn-lg btn-block mb-3 mt-3"><i class="fas fa-download"></i> HD Quality <b class="langflag"> - EN </b></a>
-            <a href="<?php echo $cpa_link ?>" target="_blank" class="btn btndown btn-lg btn-block mb-3"><i class="fas fa-download"></i> 4K Quality <b class="langflag"> - EN </b></a>
-            <a href="<?php echo $cpa_link ?>" target="_blank" class="btn btndown btn-lg btn-block mb-3"><i class="fas fa-download"></i> 8K Quality <b class="langflag"> - EN </b></a>
+            <a onclick="CPABuildLock()" target="_blank" class="btn btndown btn-lg btn-block mb-3 mt-3"><i class="fas fa-download"></i> HD Quality <b class="langflag"> - EN </b></a>
+            <a onclick="CPABuildLock()" target="_blank" class="btn btndown btn-lg btn-block mb-3"><i class="fas fa-download"></i> 4K Quality <b class="langflag"> - EN </b></a>
+            <a onclick="CPABuildLock()" target="_blank" class="btn btndown btn-lg btn-block mb-3"><i class="fas fa-download"></i> 8K Quality <b class="langflag"> - EN </b></a>
           </div>
         </div>      
       </div>
