@@ -7,9 +7,9 @@
 
 $uri = 'https://www.moviedwl.herokuapp.com';
 
-$wname = 'MOVIE DOWNLOADER'; 
+$wname = '🔥watch all latest movies for FREE'; 
 
-$descrip = 'Watch all Latest Movies for FREE!';  
+$descrip = '🔥watch all latest movies for FREE';  
 
 $cpa_link = 'https://contentlockerdialek.com';  
 
