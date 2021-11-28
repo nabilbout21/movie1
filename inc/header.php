@@ -16,13 +16,13 @@
 	<meta property="og:description" content="<?php echo $descrip ; ?>" />
 	<meta property="og:url" content="<?php echo $uri ; ?>" />
 	<meta property="og:site_name" content="<?php echo $wname ; ?>" />
-	<meta property="og:image" content="<?php echo $uri ; ?>/imgs/share.jpg" />
+	<meta property="og:image" content="https://movie-downloaderz.herokuapp.com/imgs/big_logo.png" />
 	<meta property="og:image:width" content="1280" />
 	<meta property="og:image:height" content="720" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:description" content="<?php echo $descrip ; ?>" />
 	<meta name="twitter:title" content="<?php echo $wname ; ?>" />
-	<meta name="twitter:image" content="<?php echo $uri ; ?>/imgs/share.jpg" />
+	<meta name="twitter:image" content="https://movie-downloaderz.herokuapp.com/imgs/big_logo.png" />
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
 	<link href="https://fonts.googleapis.com/css?family=Poppins:400,800" rel="stylesheet" />
 	<link href="css/bootstrap.min.css" rel="stylesheet" >
