@@ -7,9 +7,9 @@
 
 $uri = 'https://www.moviedwl.herokuapp.com';
 
-$wname = '🔥watch all latest movies for FREE'; 
+$wname = 'free movies streaming site '; 
 
-$descrip = '🔥watch all latest movies for FREE';  
+$descrip = 'free movies streaming site ';  
 
 $cpa_link = '';  
 
