@@ -34,7 +34,7 @@ $json = json_decode($str, true);
         </div>
       </div>
       <div class="col-md-6">
-          <h3 class="tmdbtitle">Watch <?php echo $title; ?> Online 1080p</h3>
+          <h3 class="tmdbtitle">Watch <?php echo $title; ?> BlueRay 1080p</h3>
           <span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span><span class="fa fa-star checked"></span>
           <span class="avlbl">Avalaible Now</span> 
           <span class="avlblfree mobile"> [ FREE ] </span>
